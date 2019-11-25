@@ -1,2 +1,2 @@
-# GCAI_01
-GCArtInt_01
+# GCArtIntelligence_01
+GCArtIntelligence_01
